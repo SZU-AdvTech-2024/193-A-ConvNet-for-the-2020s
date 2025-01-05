@@ -1,0 +1,6 @@
+@article{REPO193,
+    author = "Liu, Zhuang and Mao, Hanzi and Wu, Chao-Yuan and Feichtenhofer, Christoph and Darrell, Trevor and Xie, Saining",
+    journal = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    title = "{A ConvNet for the 2020s}",
+    year = "2022"
+}
